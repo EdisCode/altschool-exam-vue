@@ -3,7 +3,7 @@
   <section>
     <div className="avatar-container">
       <img width="100" height="120" src="../assets/picture.jpg" className="avatar" alt="avatar" title="avatar" loading="eager" />
-      <h1 className="intro">Hi there! My name is Edikan Ekanem.</h1>
+      <h1 className="intro">Hi there! My name is Edikan Ekanem 🤚🏽</h1>
     </div>
     <div className="info">
       <h2>Nice of you to join me here.</h2>
