@@ -1,6 +1,6 @@
 # Counter App Using Vue
 
-You can check it out using at [](Link).
+You can check it out using at [https://altschool-exam-vue.web.app/](https://altschool-exam-vue.web.app/).
 
 ## Project setup
 
